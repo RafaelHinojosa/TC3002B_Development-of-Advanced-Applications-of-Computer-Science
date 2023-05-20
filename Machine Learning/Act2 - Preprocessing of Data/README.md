@@ -22,5 +22,7 @@ El trabajo se corre con este archivo y con las imagenes de la carpeta *dataset*.
 
 
 **Rafael Hinojosa López**
+
 **A01705777**
+
 **19 de mayo del 2023**

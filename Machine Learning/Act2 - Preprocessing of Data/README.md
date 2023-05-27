@@ -1,10 +1,6 @@
 # TC3002B_Machine_Learning
 
-## Actividad 2.2 Preprocesado de los datos
-### Rafael Hinojosa López
-### A01705777
-### 19 de mayo del 2023
-
+**Actividad 2.2 Preprocesado de los datos**
 
 **Descripción**  
 Se realizaron las siguientes actividades:
@@ -23,3 +19,10 @@ El trabajo se corre con este archivo y con las imagenes de la carpeta *dataset*.
 
 **Consideraciones**
 * Descargar el dataset de imagenes que se utilizó y asegurarse que el título de la carpeta es *dataset*
+
+
+**Rafael Hinojosa López**
+
+**A01705777**
+
+**19 de mayo del 2023**

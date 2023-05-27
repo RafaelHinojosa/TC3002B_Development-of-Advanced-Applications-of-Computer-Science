@@ -1,1 +1,3 @@
-https://codeforces.com/contest/1829/problem/A
+https://codeforces.com/contest/1829/problem/A -> sol_1,2,3,4
+Proverbios 2 -> original_text
+Proverbios 3 -> extra_text

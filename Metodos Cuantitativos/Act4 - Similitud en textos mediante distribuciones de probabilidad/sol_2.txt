@@ -1,0 +1,10 @@
+t= input('')
+al=0
+orgstr='codeforces'
+for x in range(int(t)):
+    al=0
+    string=input('')
+    for y in range(10):
+        if string[y]!=orgstr[y]:
+            al+=1
+    print(al)

@@ -1,0 +1,11 @@
+for _ in range(int(input())):
+    s = input()
+    c = 'codeforces'
+    if s == c:
+        print(0)
+    else:
+        indexes = 0
+        for i in range(10):
+            if s[i] != c[i]:
+                indexes += 1
+        print(indexes)

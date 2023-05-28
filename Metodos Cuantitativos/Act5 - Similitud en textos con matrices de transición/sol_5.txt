@@ -1,0 +1,8 @@
+text2 = text2.lower()
+text2 = re.findall(r"[A-Za-z=+-/!*]+|\w+", text2)
+
+text1 = text1.lower()
+text1 = re.findall(r"[A-Za-z=+-/!*]+|\w+", text1)
+
+combined_text = text2 + text1
+combined_text

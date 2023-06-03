@@ -16,11 +16,6 @@ El archivo con el modelo realizado es *weather_recognition.ipynb*
 
 El trabajo se corre con este archivo y con las imagenes de la carpeta *dataset*. Estas imágenes serán modificadas y guardadas en sus respectivas carpetas *train* y *test* según corresponda, dentro de la carpeta *images*. Finalmente, en la carpeta *augmented* estarán las imágenes aumentadas del set de datos.
 
-
-**Consideraciones**
-* Descargar el dataset de imagenes que se utilizó y asegurarse que el título de la carpeta es *dataset*
-
-
 **Rafael Hinojosa López**
 
 **A01705777**
